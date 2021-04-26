@@ -12,3 +12,4 @@ jupytext
 jupyter
 nbformat
 cookiecutter
+cupy-cuda102
